@@ -9,3 +9,4 @@ _autosave-*
 *.xml
 /fab
 OpenHomeSwitch
+/lib/3rdparty

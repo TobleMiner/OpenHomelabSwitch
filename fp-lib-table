@@ -5,4 +5,5 @@
   (lib (name "Package_QFP_Allwinner")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_QFP_Allwinner.pretty")(options "")(descr ""))
   (lib (name "Connector_Card_MicroSD")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_Card_MicroSD.pretty")(options "")(descr ""))
   (lib (name "EMI_Filter_Linekey")(type "KiCad")(uri "${KIPRJMOD}/lib/EMI_Filter_Linekey.pretty")(options "")(descr ""))
+  (lib (name "ToolingHole")(type "KiCad")(uri "${KIPRJMOD}/lib/ToolingHole.pretty")(options "")(descr ""))
 )
