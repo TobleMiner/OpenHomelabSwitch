@@ -2862,6 +2862,11 @@
       (net 1 "Earth") (pintype "passive") (tstamp 520ce3d0-b42e-4e0b-b4aa-f1b79c629e60))
     (pad "SH" thru_hole circle (at 31.75 -3.43 180) (size 2.7 2.7) (drill 2) (layers "*.Cu" "*.Mask")
       (net 1 "Earth") (pintype "passive") (tstamp 8a12b53c-9840-44d1-9704-688449d372bc))
+    (model "${KIPRJMOD}/lib/3rdparty/C3010542.x3d"
+      (offset (xyz -0 2.5 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 180 0 180))
+    )
   )
 
   (footprint "Crystal:Crystal_SMD_3215-2Pin_3.2x1.5mm" (layer "F.Cu")
